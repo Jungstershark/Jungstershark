@@ -1,7 +1,8 @@
 <h1 align="center">🌟 Hey there, I'm Jung Yi 👋</h1>
-<p align="left">I’m a SEA Games 🥇 Gold Medallist, proudly representing 🇸🇬 Singapore in swimming. My journey as an athlete has ingrained in me the essence of 🌀 adaptability and 💪 resilience, qualities that now drive my passion for 💻 technology and 🛠️ software engineering. Currently, I'm an Honours and Research student in the Computer Science and Design program at the Singapore University of Technology and Design.
+<p align="left">
+I'm a Singaporean 🇸🇬 Honours student in Computer Science and Design at SUTD, with a passion for 💻 technology and 🛠️ software engineering. My background in competitive swimming has taught me adaptability and resilience, which I now apply to my tech journey.
 
-As I transition from my athletic achievements to the tech industry, I’m eager to gain more hands-on experience in software engineering. I am always open to 🌟 insights, 🤝 opportunities, or simply connecting with professionals in the field.
+I'm eager to learn, gain experience, and connect with others in the field.
 </p>
 
 
@@ -15,8 +16,8 @@ As I transition from my athletic achievements to the tech industry, I’m eager 
 </p>
 
 - 🌟 Currently diving into: **Building intuitive and scalable Web Applications**
-- 📚 Exploring new depths in: **Machine Learning, Cloud Technologies, and DevOps**
-- 💬 Happy to chat about: **Algorithms, Data Structures, Mobile App Development and all things tech**
+- 📚 Exploring new depths in: **Machine Learning, Cloud Technologies**
+- 💬 Happy to chat about: **Algorithms, Data Structures, and all things tech**
 - 📫 Reach out to me at: jungyi_ong@mymail.sutd.edu.sg
 - ⚡ Fun fact: I’ve mastered the art of balancing swim strokes and keystrokes! 😄
 
