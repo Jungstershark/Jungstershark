@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jung Yi </h1>
-<h3 align="center">description short</h3>
+<h1 align="center">🌟 Hey there, I'm Jung Yi 👋</h1>
+<p align="left">I’m a SEA Games 🥇 Gold Medallist, proudly representing 🇸🇬 Singapore in swimming. My journey as an athlete has ingrained in me the essence of 🌀 adaptability and 💪 resilience, qualities that now drive my passion for 💻 technology and 🛠️ software engineering. Currently, I'm an Honours and Research student in the Computer Science and Design program at the Singapore University of Technology and Design.
+
+As I transition from my athletic achievements to the tech industry, I’m eager to gain more hands-on experience in software engineering. I am always open to 🌟 insights, 🤝 opportunities, or simply connecting with professionals in the field.
+</p>
+
+
 <img align="right" alt="Coding" width="400" src="assets/profile/profile.png">
 
 
@@ -9,20 +14,22 @@
   </a>
 </p>
 
+- 🌟 Currently diving into: **Building intuitive and scalable Web Applications**
+- 📚 Exploring new depths in: **Machine Learning, Cloud Technologies, and DevOps**
+- 💬 Happy to chat about: **Algorithms, Data Structures, Mobile App Development and all things tech**
+- 📫 Reach out to me at: jungyi_ong@mymail.sutd.edu.sg
+- ⚡ Fun fact: I’ve mastered the art of balancing swim strokes and keystrokes! 😄
 
-- 🔭 I’m currently working on **Vexa Web App**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **jungyi_ong@mymail.sutd.edu.sg**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ongjungyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ongjungyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jungyi_linkedin" height="30" width="40" /></a>
+<a href="mailto:jungyi_ong@mymail.sutd.edu.sg" target="blank">
+  <img align="center" src="assets/icons/social/icons8-gmail.svg" alt="Email" height="36" width="49" />
+</a>
+<a href="https://t.me/jungstershark" target="blank">
+  <img align="center" src="assets/icons/social/icons8-telegram.svg" alt="Telegram Profile" height="36" width="49" />
+</a>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -40,7 +47,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
