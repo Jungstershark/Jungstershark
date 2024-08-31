@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jung Yi </h1>
 <h3 align="center">description short</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="assets/profile/profile.png">
 
 
 <p align="left">
