@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **jungyi_ong@mymail.sutd.edu.sg**
 
 - ⚡ Fun fact **I am Funny**
 
